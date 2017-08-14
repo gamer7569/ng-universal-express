@@ -1,6 +1,6 @@
 # Angular Universal Express
 
-A boilerplate for Angular Universal in Express with Angular CLI integration. This leverages the ['Universal Starter'](https://github.com/angular/universal-starter) adds the CLI on top. 
+A boilerplate for Angular Universal in Express with Angular CLI integration. This leverages the ['Universal Starter'](https://github.com/angular/universal-starter) and adds the CLI on top. 
 
 ## Code scaffolding
 
