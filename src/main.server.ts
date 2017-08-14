@@ -20,7 +20,7 @@ app.engine('html', ngExpressEngine({
 app.set('view engine', 'html');
 app.set('views', 'src');
 
-app.use('/', express.static('dist', {index: false}));
+app.use('/', express.static('dist/browser', {index: false}));
 
 ROUTES.forEach((route: string) => {
   app.get(route, (req: Request, res: Response) => {
